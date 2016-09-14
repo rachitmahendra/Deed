@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345090344814",
+    "firebase_url": "https://utopian-precept-143208.firebaseio.com",
+    "project_id": "utopian-precept-143208",
+    "storage_bucket": "utopian-precept-143208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345090344814:android:761461ca19cfcdce",
+        "android_client_info": {
+          "package_name": "com.ghostlabs.deed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345090344814-2oajqljhijm91j2gvdk6hpolm3uv6q43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghostlabs.deed",
+            "certificate_hash": "72DD9B7679BE785DB6A18F08F1B8D2735C609A7B"
+          }
+        },
+        {
+          "client_id": "345090344814-l71odn9bs0p5t18d5jrdpc3pnc67j8po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXhU0tt4qBVVPiIAhi-zXFLp-ZmpBCuJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345090344814-l71odn9bs0p5t18d5jrdpc3pnc67j8po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
